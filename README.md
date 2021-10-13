@@ -15,10 +15,17 @@ aha ben değiştirdim bunu
 .
 .
 
-.
+
+
 
 
 .
+
+hadi bi daha deneyelim
+
+.
+
+
 
 
 
